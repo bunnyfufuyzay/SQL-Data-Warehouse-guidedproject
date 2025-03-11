@@ -1,5 +1,5 @@
 
-# Data Warehouse and Analytics ![Project](https://www.notion.so/chriscodump/SQL-Data-Warehouse-Project-1b33445fd69080d9a396f9dcce336e72?pvs=4)
+# Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
@@ -107,3 +107,6 @@ data-warehouse-project/
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+
+
